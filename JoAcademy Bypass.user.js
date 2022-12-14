@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         JoAcademy Bypasser (OPEN)
+// @name         JoAcademy Bypasser
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  Access JoAcademy classes through streaming media and sharing, without the need for the app or registration.
